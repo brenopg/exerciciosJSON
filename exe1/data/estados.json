@@ -1,0 +1,26 @@
+{
+    "estados":
+    [
+    {
+        "nome": "Minas Gerais"
+        },
+     {
+        "nome": "Acre"
+     },
+     {
+        "nome": "Rio Grande do Sul"
+     },
+     {
+        "nome": "Paraná"
+     },
+     {
+        "nome": "Goiás"
+     },
+     {
+        "nome": "São Paulo"
+     },
+     {
+        "nome": "Rio de Janeiro"
+     }   
+        ]
+            }

@@ -1,0 +1,31 @@
+{
+	"jogos":
+	[
+	     {
+		"id": 7,
+		"nome": "Battlefield 4",
+		"lancamento": "01/02/2011",
+		"src": "img/bf.jpg",
+		"nota": "9.5",
+		"descricao": "O Battlefield 4 é a continuação do famoso jogo de tiro da Origin disponível para Windows, Playstation 3 e Xbox360. O FPS (First Person Shooter) da EA conta com uma de uma grande quantidade de armas e de veículos de guerra como tanques, aviões e barcos. Os jogadores podem escolher entre inúmeros modos de combate, lutar na infantaria e batalhar dirigindo os veículos. Neste título, o usuário comanda os soldados de uma equipe avançada, o esquadrão Tombstone. Esse esquadrão, que tem como especialidade intervenção furtiva, irá se infiltrar na China com o objetivo de tentar restaurar a ordem e evitar um golpe de estado, revelado após a morte do futuro governante do país."
+		},
+		{
+			"id": 8,
+		"nome": "Far Cry 3",
+		"lancamento": "31/12/2012",
+		"src": "img/fc.jpg",
+		"nota": "9.2",
+		"descricao": "O Far Cry 3 é um dos jogos mais explosivos dos últimos anos disponível para Windows. Ambientado em uma ilha paradisíaca, o jogador deve enfrentar diversos mercenários espalhados pelo local para conseguir sobreviver. O seu personagem e um grupo de amigos saem de férias e se deparam com uma ilha exótica. De turistas desavisados logo passam a reféns de um grupo de mercenários malucos. O usuário consegue escapar da morte, mas um de seus amigos ainda está preso, e precisa de ajuda para poder fugir."
+	    },
+		{
+			"id": 9,
+		"nome": "Wolfenstein: The New Order",
+		"lancamento": "05/08/2013",
+		"src": "img/wf.jpg",
+		"nota": "9.0",
+		"descricao": "Wolfenstein: The New Order é o mais novo capítulo desta que talvez seja a série mais clássica de jogos de tiro para PC, com sistema Windows. A saga nasceu antes mesmo de sucessos como Call of Duty, Battlefield e deu origem a games clássicos, como Doom. Com este retorno, ela pretende retomar seu posto e tornar-se relevante de novo ao consumidor e ao mercado. O game reacende a chama da série que criou o gênero. O jogo oferece uma narrativa densa e cheia de ação e aventura. Por conta desse foco na história, não há modo multiplayer e sua campanha deve durar umas boas horas – um tempo acima da média para os atuais representantes do FPS."
+		}
+
+			
+			]
+}
